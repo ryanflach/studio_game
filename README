@@ -1,0 +1,5 @@
+studio_game is a command-line game built through instruction by The Pragmatic Studio.
+
+Through user input, the game is named and then run through a number of designated rounds.
+Random play is introduced to assign treasure (points) and increase or decrease a player's health.
+At the conclusion of the game (as determined by the user) a .txt file is saved with the high scores.
